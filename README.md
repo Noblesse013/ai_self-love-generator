@@ -1,10 +1,10 @@
 
-# AI Self-Love Generator 
+# Self-Love Generator 
 
 ![image](https://github.com/user-attachments/assets/8baca006-af8d-4e85-a7e1-3868a209429d)
 
 
-An AI-powered tool for singles to embrace self-love during Valentine's. Generate personalized affirmations and reminders of your worth!  
+A tool for singles to embrace self-love during Valentine's. Generate personalized affirmations and reminders of your worth!  
 
 ##  How to Use  
 1. **Clone the repo:**  
