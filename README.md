@@ -22,7 +22,7 @@ A tool for singles to embrace self-love during Valentine's. Generate personalize
    ```
 
 ##  Features  
-- AI-generated affirmations tailored for self-love  
+- Self-love activities
 - Perfect for singles on Valentine's Day  
 -  Simple & uplifting experience  
 
