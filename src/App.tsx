@@ -37,16 +37,16 @@ function App() {
             </p>
           </div>
 
-          <div className="bg-white rounded-xl shadow-lg p-8 mb-12">
+          <div className="bg-white rounded-xl shadow-lg p-10 mb-12">
             <h2 className="text-3xl font-bold text-pink-900 mb-8 text-center">
-            
+             
             </h2>
             
             <button
               onClick={getRandomActivity}
               className="bg-gradient-to-r from-pink-500 to-red-500 text-white font-bold py-4 px-10 rounded-lg shadow-lg hover:shadow-xl transition-all transform hover:-translate-y-1 flex items-center justify-center mx-auto"
             >
-              <PartyPopper className="mr-1 h-6 w-6" />
+              <PartyPopper className="mr-3 h-6 w-6" />
               Shower Yourself with Love!
             </button>
 
